@@ -40,7 +40,7 @@
     ""
   ],
   "whiteListMode": {
-    "enable": true,
+    "enable": false,
     "whiteListIds": [
       "100087393361853",
       "",
